@@ -128,8 +128,4 @@ Challenge / Thinking questions
 
 ---
 
-If you want, I can also:
-- Add solutions for the practice problems in a separate file (DAY-3-solutions.md).
-- Put this lesson into a `lessons/` folder or `docs/` and update the README with links.
-
 Happy coding — practice these until they're second nature!
